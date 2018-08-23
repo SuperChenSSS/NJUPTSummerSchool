@@ -546,7 +546,13 @@ Day 9:
 - 输入扰动：对协方差矩阵加噪，计算主成分特征向量
 - 输出扰动：直接计算主成分特征向量，对低维空间加噪
 
+#### 深度学习实战
 
+本次深度学习的实战内容，主要介绍了深度学习的应用于全连接、BP网络等内容。由于主要是代码实践内容，故不做笔记。在PPT中有课件，有需要的可以查阅ppt文件夹。
+
+![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day4/IMG_0381.JPG)
+
+![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day4/IMG_0380.JPG)
 
 - Day 5 :
 - Day 6 :
