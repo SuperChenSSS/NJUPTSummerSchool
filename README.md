@@ -99,7 +99,7 @@ Day 9:
 
   首先，副校长蒋国平教授等多人进行了致辞，大致表达了希望我们从暑期学校中学到更多的知识和充实自我的期望。
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0142.JPG)
+  ![](img/Day1/IMG_0142.JPG)
 
   <center>开幕式及致辞</center>
 
@@ -111,13 +111,13 @@ Day 9:
 
   #### 蒋国平教授：复杂网络:理论及其应用
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0147.JPG)
+  ![](img/Day1/IMG_0147.JPG)
 
   说实在的，第一场讲座实在是非常学术的，以至于当时听得非常朦胧，但是还好，由于是第一场，还是记录了很多的笔记。刚开始比较基础，都是数据结构的内容，慢慢就开始高深了=_=
 
   首先，蒋国平教授把讲座分为了四部分：网络拓扑结构、网络行为特征、复杂网络的同步和传播以及网络控制。
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0148.JPG)
+  ![](img/Day1/IMG_0148.JPG)
 
   <center>讲座的纲要</center>
 
@@ -137,7 +137,7 @@ Day 9:
 
      最后，介绍了三种生成模型，其中最有代表性的是Scale-free Network，
 
-     ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0155.JPG)
+     ![](img/Day1/IMG_0155.JPG)
 
      该算法的思想是：根据某一概率，随机加入新的节点；然后，根据某一新的概率，随机选取两个点，并将这两个点之间连边。
 
@@ -149,7 +149,7 @@ Day 9:
 
   2. 网络行为特征
 
-     ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0156.JPG)
+     ![](img/Day1/IMG_0156.JPG)
 
      这一部分主要与生活现象联系紧密，研究的也不单纯是理论
 
@@ -160,13 +160,13 @@ Day 9:
 
      这一部分主要介绍了网络与网络之间的联系与模型。
 
-     ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0152.JPG)
+     ![](img/Day1/IMG_0152.JPG)
 
      网络可分为两种：平均网络（符合泊松分布）以及抑制网络（先高后低的形状）
 
      模型有三种模型: SIS、SIR和SI传播模型
 
-     ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0157.JPG)
+     ![](img/Day1/IMG_0157.JPG)
 
      这一段听得头皮发麻！真的是触摸到知识的盲区了，表达式看的也挺懵，不懂不懂......
 
@@ -178,17 +178,17 @@ Day 9:
 
   #### 王东CTO：运满满在大数据和AI的应用
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0161.JPG)
+  ![](img/Day1/IMG_0161.JPG)
 
   讲真，这是上午听得最爽的一场了！！因为是首席技术总监（CTO）的缘故，这个讲座非常的技！术！化！
 
   王总通过对公司所获得的大数据进行的处理与加工，从而得到对用户有效的信息，然后精确地将货物与司机匹配在一起，得到利益的最大化。这场讲座我觉得干货满满，不像之前的学术化，很多的思想和工程算法都能听懂，真的是有种大彻大悟的感觉😂接下来我会就着图分析一下运满满公司是怎样利用大数据来精准推荐的。
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/summary.png)
+  ![](img/Day1/summary.png)
 
   首先，这是该公司大数据平台的一个架构。公司旗下的两款APP，分别对应着供货端与司机端。目标是把相应的货物匹配到最合适的司机上，然后收取合理的利润。
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0164.JPG)
+  ![](img/Day1/IMG_0164.JPG)
 
   车货匹配：首先，这是一个建模的过程，首先定位了需要解决的问题：匹配问题、推荐问题与用户画像。
 
@@ -204,13 +204,13 @@ Day 9:
 
   紧接着，介绍了最新的无人驾驶技术，包括了以下方面:规划、感知、预测、决策、控制
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0166.JPG)
+  ![](img/Day1/IMG_0166.JPG)
 
   <center>运满满公司在码头和高速试行的无人卡车项目</center>
 
   最后，王总提出了智慧物流的概念：融合了机器视觉，自然语言，人脸识别（防疲劳），智能客服，语音发货，智能助手等技术。
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0170.JPG)
+  ![](img/Day1/IMG_0170.JPG)
 
   <center>真的是技术大牛，百度T9，这简历无敌了=_=</center>
 
@@ -218,7 +218,7 @@ Day 9:
 
   #### 陈国良院士：大数据并行与交互式计算
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0173.JPG)
+  ![](img/Day1/IMG_0173.JPG)
 
   嗯，终于轮到了压轴人物出场了：毕业于中国科学院大学的陈院士！这也是我第一次能见到院士。现已80高龄的陈国良院士仍然非常精神，着实令人敬佩。今天陈院士分享的主题是理论计算问题，接下来我会简要将重点整理在下方。
 
@@ -236,17 +236,17 @@ Day 9:
 
   紧接着，陈院士介绍了图灵机，分为了确定图灵机和不确定图灵机，区别在于是否只有唯一的一条路线可供选择。
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0188.JPG)
+  ![](img/Day1/IMG_0188.JPG)
 
   最后，陈院士展示了一个框架，通过框架，我们能够更轻松地了解P与NP问题的关联与区别。
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0178.JPG)
+  ![](img/Day1/IMG_0178.JPG)
 
   总结：陈国良院士今天的讲座还是很通俗易懂的，没有讲到过多的理论知识，听起来还是比较容易懂的。在讲座中间，陈院士还回顾了自己上大学时候的一些所见所闻与奇闻异事，其中偷爬窗户占座那段我觉得最有意思😂生活中陈院士还是一个挺幽默的老师，在学术上他也是非常厉害的。通过今天的讲座，我了解了以前一直听说的P与NP问题到底是什么，以及发现计算问题，离我们并不遥远。衷心希望陈院士能在三尺讲台上再奉献更多精彩的讲座！
 
   #### 陈可佳博士：金融+机器学习
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0189.JPG)
+  ![](img/Day1/IMG_0189.JPG)
 
   最后一场，也是传说中的，陈可佳女博士带来的机器学习讲座。
 
@@ -259,11 +259,11 @@ Day 9:
 
   那么，在机器学习中，**特征工程**也是很重要的一环，选取一个良好的特征训练，将会收到更好的效果。反之，则会直接影响预判结果的正确性。
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0195.JPG)
+  ![](img/Day1/IMG_0195.JPG)
 
   在使用机器学习进行选股时，股票因子与权重占有很重要的位置；复杂情况下，多因子选股时，要分清每一因子所影响的范围及互相间的变化，谨慎选择最优的方案。
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day1/IMG_0193.JPG)
+  ![](img/Day1/IMG_0193.JPG)
 
   那么，这就是Day 1的全部内容，感谢各位的留意与观看，我们明天再见😀晚安💤
 
@@ -275,13 +275,13 @@ Day 9:
 
   #### 科研方法：王磊博士
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day2/IMG_0218.JPG)
+  ![](img/Day2/IMG_0218.JPG)
 
   本次科研方法讲座，主要讲述了进入研究生阶段后，应该注意的一些事情，怎样与导师相处以及怎样提高自己。
 
   首先，王磊教授分享了为什么要进入研究生阶段：提升自己的能力、格局、平台和朋友圈；然后，主要分析了研究生与本科生的不同。在撰写论文时，与本科阶段不同，不是按部就班，而应该有所创新，通过与导师接触，或是各种学术交流学术报告中获取自己的灵感，同时在自己的空闲时间要了解学术潮流，多关心身边人在做什么以及自己能不能从中借鉴。
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day2/IMG_0222.JPG)
+  ![](img/Day2/IMG_0222.JPG)
 
   几个重要的观点与论述中心：
 
@@ -298,7 +298,7 @@ Day 9:
 
   3. 关于论文投稿阶段：见图
 
-     ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day2/IMG_0220.JPG)
+     ![](img/Day2/IMG_0220.JPG)
 
      论文提交后的发稿流程，大致为图上所示
 
@@ -312,15 +312,15 @@ Day 9:
 
   #### 科研写作：夏彬博士
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day2/IMG_0225.JPG)
+  ![](img/Day2/IMG_0225.JPG)
 
   紧接着，就来到了第二部分：科研写作部分。在这一部分中，夏彬博士主要分析的是英文论文的写作技巧，故这一块的PPT与课件都是英文形式的。科研写作，里面蕴含了非常多的技巧与注意点，夏博士提到了很多很多的技巧，但限于篇幅与时间，我只将重要部分提炼出来。
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day2/IMG_0231.JPG)
+  ![](img/Day2/IMG_0231.JPG)
 
   首先，这是一篇正常论文的结构，夏博士将其中每一块都分开，然后细说了其中的注意点。
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day2/IMG_0235.JPG)
+  ![](img/Day2/IMG_0235.JPG)
 
   其中：
 
@@ -348,7 +348,7 @@ Day 9:
 
   #### Python大数据实践: 刘晓迁
 
-  ![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day2/IMG_0251.JPG)
+  ![](img/Day2/IMG_0251.JPG)
 
   Python大数据实战呢，虽然是上机，但是感觉，由于之前已经自学了一段，所以现在感觉也没有什么太大的难度。代码我放在了ppt的文件夹中，有需要的可以自行查看。
 
@@ -360,15 +360,15 @@ Day 9:
 
 #### 关于多视图统计学习和矩阵复原的一点贡献：蓝超博士
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day3/IMG_0267.JPG)
+![](img/Day3/IMG_0267.JPG)
 
 第一场报告是由蓝超博士带来的。蓝博士的讲座有一个很特别的现象，由于经常在国外演讲，他比较喜欢在中间询问是否有问题并希望听众能在讲座中间打断他提问。或许这是国外跟中国的一个区别吧。
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day3/IMG_0271.JPG)
+![](img/Day3/IMG_0271.JPG)
 
 首先，蓝博士主要介绍了多视图的概念和特征，并强调了机器学习的特征：对多组特征进行的相互标注。
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day3/IMG_0269.JPG)
+![](img/Day3/IMG_0269.JPG)
 
 然后，蓝博士介绍了Co-Learning和Co-Regularization两种算法。第一种算法适用于半监督学习方法，主要通过标记一个，然后迁移到另一个视图进行标记；由于第一种算法比较耗时，而且工作量比较大，故简化并优化了第一种算法到Co-Regularization。这个算法的特征是通过公式进行计算与建立损失函数进行最小化优化，从而收敛到一个范围，能够更快地达到目标。
 
@@ -376,7 +376,7 @@ Day 9:
 
 为了改进无监督学习的样本复杂度，通常运用一种叫联合矩阵分解(Collective Matrix Factorization)的方式进行分而治之的求解。
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day3/IMG_0277.JPG)
+![](img/Day3/IMG_0277.JPG)
 
 最后，蓝教授通过举机器学习中，出现的性别歧视的现象，提出了机器学习的公平性问题。这是一个在机器学习中普遍出现的问题。在做决策时，由于样本也是采集于生活中，这类歧视不可避免，于是就会将训练后的模型也带入其中。为了解决这类问题，我们要对样本集进行一些模糊化的处理（例如隐藏性别等某些可能会导致歧视的方面），然后再丢入模型进行训练。
 
@@ -384,37 +384,37 @@ Day 9:
 
 #### 2DPCA表示学习（模式识别）:杨健博士
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day3/IMG_0281.JPG)
+![](img/Day3/IMG_0281.JPG)
 
 讲真，这是我听过最懵的讲座！上来就讲PCA我也是很醉啊。没有任何铺垫直接就开始各种公式理论推导，简直头皮发麻……实在是没有搞懂他在讲什么，课件我也放到了ppt文件下，有需要的同学可查看该课件，我就不再分析了。
 
 #### 人工智能与图像识别: 刘青山博士
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day3/IMG_0297.JPG)
+![](img/Day3/IMG_0297.JPG)
 
 首先，想为刘博士点个赞。这场讲座是我觉得最有意思的一场讲座之一。这次讲座中，第一次出现了演示环节，而且做出来的东西性能特别高效，不同于其他任何的框架臃肿的特性，当然这些都是后话。
 
 首先，刘博士介绍了人工智能已上升到了国家战略，并主要专注于大数据智能、群体智能、跨媒体智能等多种方面。
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day3/IMG_0302.JPG)
+![](img/Day3/IMG_0302.JPG)
 
 然后，刘博士提出了两大挑战，并由此引入了怎样将高位数据进行降维。我们可以通过主成成分分析（PCA）的方法，剔除少量的细节，从而将高维度的细节降维，从而缩短计算时间与复杂度。还经常用的一种方法为SVM，效果同理。
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day3/IMG_0307.JPG)
+![](img/Day3/IMG_0307.JPG)
 
 最后，刘博士现场演示了人脸识别的技术。该识别技术不仅很准，而且速度性能还特别的好，真的很好奇是用怎样的算法进行的优化=_= 这张图我感觉也是今日最佳了😂
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day3/IMG_0309.JPG)
+![](img/Day3/IMG_0309.JPG)
 
 这张也是非常好玩了，还和<del>杨洋</del>某位明星同台出镜了2333这个人脸识别率，真的是相当的高。
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day3/IMG_0316.JPG)
+![](img/Day3/IMG_0316.JPG)
 
 最后，刘博士进行了总结，并希望我们展望未来，去通过不懈的努力去追寻真理。
 
 #### 强化学习简介：俞扬博士
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day3/IMG_0319.JPG)
+![](img/Day3/IMG_0319.JPG)
 
 俞博士，主要讲的是强化学习的相关内容。如果将强化学习与监督学习进行一个比较的话，强化学习侧重决策，而监督学习则偏重于预测，是两种不同的任务。而现在很多的游戏等多种反馈的任务，使用强化学习都可以得到一个很好的结果。
 
@@ -424,11 +424,11 @@ Day 9:
 2. AlphaGo System
 3. 推荐系统（根据商品的特征）
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day3/IMG_0321.JPG)
+![](img/Day3/IMG_0321.JPG)
 
 这段是一个三部曲的流程图，分别是建模，组织架构和数据
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day3/IMG_0326.JPG)
+![](img/Day3/IMG_0326.JPG)
 
 一个常用的算法架构，常用作policy-free模式中
 
@@ -436,7 +436,7 @@ Day 9:
 
 #### 半监督分类学习: 汪云云博士
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day4/IMG_0358.JPG)
+![](img/Day4/IMG_0358.JPG)
 
 分类学习：训练数据--训练->学习模型--预测->新数据
 
@@ -446,7 +446,7 @@ Day 9:
 
 半监督分类： 利用大量无标记样本和少量有标记样本进行训练
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day4/IMG_0360.JPG)
+![](img/Day4/IMG_0360.JPG)
 
 学习方法：
 
@@ -469,7 +469,7 @@ Day 9:
 
 - 引入平衡因子，解决半监督学习的不安全问题
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day4/IMG_0361.JPG)
+![](img/Day4/IMG_0361.JPG)
 
 相关工作：
 
@@ -482,7 +482,7 @@ Day 9:
 
 #### 数据处理过程中的隐私保护：杨庚教授
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day4/IMG_0364.JPG)
+![](img/Day4/IMG_0364.JPG)
 
 互联网发展：互联网->+互联网->互联网+
 
@@ -490,11 +490,11 @@ Day 9:
 
 如何定位到一个黑客地点和行为呢？
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day4/IMG_0368.JPG)
+![](img/Day4/IMG_0368.JPG)
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day4/IMG_0369.JPG)
+![](img/Day4/IMG_0369.JPG)
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day4/IMG_0371.JPG)
+![](img/Day4/IMG_0371.JPG)
 
 (这部分，杨教授从一个案例出发，详细叙述了怎样从网上发现该黑客，并从蛛丝马迹中一步步定位到这个人的。非常有意思！)
 
@@ -519,7 +519,7 @@ Day 9:
 - 可用性：访问控制，用户授权，审计
 - 不可否认/可控性
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day4/IMG_0373.JPG)
+![](img/Day4/IMG_0373.JPG)
 
 数据环境的安全问题：
 
@@ -530,7 +530,7 @@ Day 9:
 
 差分隐私：给附近加入一些噪声，使得信息经过截获后减少损失。
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day4/IMG_0377.JPG)
+![](img/Day4/IMG_0377.JPG)
 
 常用噪声机制：
 
@@ -552,15 +552,15 @@ Day 9:
 
 本次深度学习的实战内容，主要介绍了深度学习的应用于全连接、BP网络等内容。由于主要是代码实践内容，故不做笔记。在PPT中有课件，有需要的可以查阅ppt文件夹。
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day4/IMG_0381.JPG)
+![](img/Day4/IMG_0381.JPG)
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day4/IMG_0380.JPG)
+![](img/Day4/IMG_0380.JPG)
 
 - Day 5 :学术报告
 
 #### 基于机器学习的软件工程与图像视频分析的新问题、新方法研究：荆晓远
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day5/IMG_0475.JPG)
+![](img/Day5/IMG_0475.JPG)
 
 偏向自动化学院的机器学习：硬件 + 软件
 
@@ -606,7 +606,7 @@ st->op1->op2->e
 
 #### 面向O2O智能商务的大数据挖掘与应用：曹杰院长
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day5/IMG_0478.JPG)
+![](img/Day5/IMG_0478.JPG)
 
 O2O: Online To Offline
 
@@ -618,7 +618,7 @@ O2O: Online To Offline
 - 用户生成内容，文本数据
 - 网络结构......
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day5/IMG_0479.JPG)
+![](img/Day5/IMG_0479.JPG)
 
 研究方面：
 
@@ -633,7 +633,7 @@ O2O: Online To Offline
 - 时序价值模式挖掘
 - 轨迹模式语义建模与标注
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day5/IMG_0476.JPG)
+![](img/Day5/IMG_0476.JPG)
 
 关键问题与技术路线：
 
@@ -643,7 +643,7 @@ O2O: Online To Offline
 
 #### 机器学习及其对抗性研究：李云教授
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day5/IMG_0483.JPG)
+![](img/Day5/IMG_0483.JPG)
 
 两方面：
 
@@ -658,7 +658,7 @@ Procedure: Feature -> Classifier -> Cross Validation
 
 线性回归：$f(x) = g_{\theta}(x) + \epsilon$
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day5/IMG_0485.JPG)
+![](img/Day5/IMG_0485.JPG)
 
 <center>本图为真实的一个机器学习问题</center>
 
@@ -669,7 +669,7 @@ Procedure: Feature -> Classifier -> Cross Validation
   - 通过不同取值把样本分割
   - 通过学习近似学习出hypothesis参数
 
-![](/Users/superchen/Desktop/NJUPT-bootcamp/img/Day5/IMG_0488.JPG)
+![](img/Day5/IMG_0488.JPG)
 
 <center>此图为决策树的例子</center>
 
