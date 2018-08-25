@@ -22,7 +22,7 @@
 
 [Day 5:学术报告](Day_5.md) 
 
-Day 6: 
+[Day 6: 讲座报告](Day_6.md)
 
 Day 7: 
 
