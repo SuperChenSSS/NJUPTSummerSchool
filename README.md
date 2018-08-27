@@ -24,9 +24,9 @@
 
 [Day 6: 讲座报告](Day_6.md)
 
-Day 7: 
+[Day 7:学术报告](Day_7.md) 
 
-Day 8: 
+[Day 8: 学术报告 & 分组交流](Day_8.md)
 
 Day 9: 
 
