@@ -123,12 +123,16 @@ Procedure: Feature -> Classifier -> Cross Validation
 
 #### 多智能体强化学习中的博弈与均衡：高阳博士
 
+![](img/Day5/IMG_0492.JPG)
+
 大数据的4V特征：
 
 - 海量（Volume）
 - 快速多变（Velocity）
 - 多样性（Variety）
 - 不准确性（Veracity）
+
+![](img/Day5/IMG_0495.JPG)
 
 **博弈推理技术：**
 
@@ -143,6 +147,8 @@ Procedure: Feature -> Classifier -> Cross Validation
 2. 交互学习中，买彩票概率问题
 3. One-Shot Game，囚犯问题
 
+![](img/Day5/IMG_0494.JPG)
+
 博弈方法：
 
 1. 马尔科夫博弈
@@ -153,6 +159,8 @@ Procedure: Feature -> Classifier -> Cross Validation
   - 对抗学习
 
 知识复用/平衡迁移
+
+![](img/Day5/IMG_0496.JPG)
 
 总结：
 
