@@ -32,39 +32,39 @@
 
 地平线机器人主要业务还是实时捕捉行人道路标志并做一些判断，从视频可以看出产品判断十分准确，而且性能也是很棒的！核心还是计算机视觉中的物体检测与判断功能。然后给我印象最深的就是他们team leader说的，永不满足现有的成果，要更进一步。这也是一个科技公司所宝贵的一种精神吧。
 
-![](/Users/superchen/Desktop/NJUPTSummerSchool/img/Day9/IMG_0672.JPG)
+![](img/Day9/IMG_0672.JPG)
 
-![](/Users/superchen/Desktop/NJUPTSummerSchool/img/Day9/IMG_0671.JPG)
+![](img/Day9/IMG_0671.JPG)
 
-![](/Users/superchen/Desktop/NJUPTSummerSchool/img/Day9/IMG_0674.JPG)
+![](img/Day9/IMG_0674.JPG)
 
 然后，下一站我们来到了旷世公司。该公司在人脸识别能力方面，是国内顶尖的水平。这个公司的环境氛围感觉是非常棒的。不过我们看到的工作人员，好像都在做特征标记=_= 真正的算法部分，好像是在办公室里面进行交流的。一个公司的环境是非常重要的。现场还有一个大的演示区，果然这个人脸识别效率是非常高的。更多的情况可以参见图。
 
-![](/Users/superchen/Desktop/NJUPTSummerSchool/img/Day9/IMG_0693.JPG)
+![](img/Day9/IMG_0693.JPG)
 
-![](/Users/superchen/Desktop/NJUPTSummerSchool/img/Day9/IMG_0689.JPG)
+![](img/Day9/IMG_0689.JPG)
 
-![](/Users/superchen/Desktop/NJUPTSummerSchool/img/Day9/IMG_0681.JPG)
+![](img/Day9/IMG_0681.JPG)
 
-![](/Users/superchen/Desktop/NJUPTSummerSchool/img/Day9/IMG_0679.JPG)
+![](img/Day9/IMG_0679.JPG)
 
-![](/Users/superchen/Desktop/NJUPTSummerSchool/img/Day9/IMG_0687.JPG)
+![](img/Day9/IMG_0687.JPG)
 
 
 
 最后，到了闭幕式，大家再次进入了报告厅，但这一次，是将要离别的时刻。副院长发言，黄院长发言，然后就是结业证书和优秀学员颁奖。很荣幸我和王纪涛学长都得到了优秀学员的奖项。
 
-![](/Users/superchen/Desktop/NJUPTSummerSchool/img/Day9/IMG_0711.JPG)
+![](img/Day9/IMG_0711.JPG)
 
-![](/Users/superchen/Desktop/NJUPTSummerSchool/img/Day9/IMG_0712.jpg)
+![](img/Day9/IMG_0712.jpg)
 
 优秀学员合影
 
-![](/Users/superchen/Desktop/NJUPTSummerSchool/img/Day9/IMG_0734.JPG)
+![](img/Day9/IMG_0734.JPG)
 
 最后，我们四人组，关系最好的铁哥们和马姐的合影
 
-![](/Users/superchen/Desktop/NJUPTSummerSchool/img/Day9/IMG_0731.JPG)
+![](img/Day9/IMG_0731.JPG)
 
 最后，想感谢南邮研究生院，能够给予我这次暑期学校的机会，去接触各种最新的学术成果和公司的情况。这十天我学到了很多，也明白了很多。在以后的学习生活中，我也将会把暑期生活的精神，去运用到每一天的进步中。加油💪我也想感谢所有持续关注我的小伙伴们，如果不是你们的关注，我也不会坚持完成这个系列，谢谢大家的督促！最后，想对这十天授课的老师、同学们，以及在一起同甘共苦的小伙伴们说一句：辛苦了❤️咱们，有缘再见~
 
