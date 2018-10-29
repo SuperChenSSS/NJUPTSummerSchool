@@ -1,4 +1,6 @@
 ## 南京邮电大学暑期学校全纪实~~
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSuperChenSSS%2FNJUPTSummerSchool.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FSuperChenSSS%2FNJUPTSummerSchool?ref=badge_shield)
+
 
 首先，很荣幸，自己能被选上参加这次暑期学校。
 
@@ -1170,3 +1172,7 @@ CAP定理：Consistency(一致性)，Availability(可用性)，Partition Toleran
 
 最后，想感谢南邮研究生院，能够给予我这次暑期学校的机会，去接触各种最新的学术成果和公司的情况。这十天我学到了很多，也明白了很多。在以后的学习生活中，我也将会把暑期生活的精神，去运用到每一天的进步中。加油💪我也想感谢所有持续关注我的小伙伴们，如果不是你们的关注，我也不会坚持完成这个系列，谢谢大家的督促！最后，想对这十天授课的老师、同学们，以及在一起同甘共苦的小伙伴们说一句：辛苦了❤️咱们，有缘再见~
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FSuperChenSSS%2FNJUPTSummerSchool.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FSuperChenSSS%2FNJUPTSummerSchool?ref=badge_large)
